@@ -1,6 +1,9 @@
-# shoes
+This is shoes web page only simple Ui.
 
-A new Flutter project.
+
+This Ui also have the responsive which run on any display without any content missing.
+
+
 
 ## Getting Started
 
