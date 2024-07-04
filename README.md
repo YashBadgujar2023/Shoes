@@ -3,6 +3,12 @@ This is shoes web page only simple Ui.
 
 This Ui also have the responsive which run on any display without any content missing.
 
+Mobile View
+![Screenshot_20240704_213023](https://github.com/YashBadgujar2023/Shoes/assets/145748021/008e8385-6bf5-4f03-ab01-acb160660721)
+
+Web View
+
+![Screenshot 2024-07-04 213147](https://github.com/YashBadgujar2023/Shoes/assets/145748021/1580def0-3733-408c-a808-d07ceeb0f05e)
 
 
 ## Getting Started
